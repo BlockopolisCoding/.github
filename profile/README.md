@@ -1,3 +1,3 @@
-# ⚡ ElectraMod
+# ⚡ Blockopolis
 
-**A Scratch mod based on PenguinMod, with additional features & extensions included.**
+**A Scratch mod based on ElectraMod, with additional features & extensions included.**
